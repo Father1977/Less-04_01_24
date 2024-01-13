@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Max",
+    "city": "Minsk",
+    "age": 38
+  },
+  {
+    "name": "Max",
+    "city": "Vitebsk",
+    "age": 20
+  },
+  {
+    "name": "Nikit",
+    "city": "Vitebsk",
+    "age": 42
+  },
+  {
+    "name": "Alex",
+    "city": "Vitebsk",
+    "age": 31
+  },
+  {
+    "name": "Nikit",
+    "city": "Minsk",
+    "age": 47
+  }
+]
